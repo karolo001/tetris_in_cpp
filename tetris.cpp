@@ -52,7 +52,6 @@ int* p = pointers[0];
 int* copy_of_p = p;
 int points = 80;
 bool is_game_fullscreen = false;
-bool chuj = true;
 
 
 bool if_it_felt = true;
